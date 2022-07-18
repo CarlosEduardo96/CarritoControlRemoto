@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Carrito.View.Control">
+
+    <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="90" />                
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0" Grid.Row="0" Grid.ColumnSpan="2">
+            <Label Text="Control Remoto" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <StackLayout Grid.Row="1" Grid.Column="0"
+                 Background="WhiteSmoke" >
+            
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Label Grid.Row="0"
+                    Grid.ColumnSpan="3"
+                    Text="Movimineto"
+                    FontSize="30"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" />
+                <Button
+                    x:Name="btnArriba" Grid.Row="1" Grid.Column="1"
+                    BackgroundColor="GreenYellow"
+                    BorderColor="Black"
+                    BorderWidth="1"
+                    Text="UP"/>
+                <Button
+                    x:Name="btnIzquierda" Grid.Row="2" Grid.Column="0"
+                    BackgroundColor="GreenYellow"
+                     BorderColor="Black"
+                    BorderWidth="1"
+                    Text="LEFT"/>
+                <Button
+                    x:Name="btnAbajo" Grid.Row="3" Grid.Column="1"
+                    BackgroundColor="GreenYellow"
+                     BorderColor="Black"
+                    BorderWidth="1"
+                    Text="DOWN"/>
+
+                <Button
+                    x:Name="btnDerecha" Grid.Row="2" Grid.Column="2"
+                    BackgroundColor="GreenYellow"
+                     BorderColor="Black"
+                    BorderWidth="1"
+                    Text="RIGTH"/>
+            </Grid>
+            
+        </StackLayout>
+        <StackLayout Grid.Row="1" Grid.Column="1"
+                 Background="WhiteSmoke">
+
+            <Grid>
+                <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Label Grid.Row="0"
+                    Grid.ColumnSpan="3"
+                    Text="Acción"
+                    FontSize="30"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" />
+                
+                <Button
+                    x:Name="btnA" Grid.Row="2" Grid.Column="1"
+                    BackgroundColor="GreenYellow"
+                    BorderColor="Black"
+                    BorderWidth="1"
+                    Text="A"/>
+
+                <Button
+                    x:Name="btnB" Grid.Row="3" Grid.Column="2"
+                    BackgroundColor="GreenYellow"
+                     BorderColor="Black"
+                    BorderWidth="1"
+                    Text="B"/>
+            </Grid>
+        </StackLayout>
+
+    </Grid>
+</ContentPage>

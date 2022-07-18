@@ -1,0 +1,16 @@
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\bin\Debug\netstandard2.0\Carrito.deps.json
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\bin\Debug\netstandard2.0\Carrito.dll
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\bin\Debug\netstandard2.0\ref\Carrito.dll
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\bin\Debug\netstandard2.0\Carrito.pdb
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\Carrito.csproj.AssemblyReference.cache
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\Carrito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\Inicio.xaml.g.cs
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\Carrito.AssemblyInfoInputs.cache
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\Carrito.AssemblyInfo.cs
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\Carrito.csproj.CoreCompileInputs.cache
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\Carrito.dll
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\ref\Carrito.dll
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\Carrito.pdb
+C:\Users\OldSnake\Source\Repos\Carrito\Carrito\Carrito\obj\Debug\netstandard2.0\View\Control.xaml.g.cs
